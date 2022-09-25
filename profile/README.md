@@ -6,11 +6,11 @@ Somos diversos Ingenieros que trabajamos cada día creando e innovando solucione
 Entre los diversos Ingenieros de la casa y asesores se encuentran Ingenieros Agrónomos, de Sistemas, Industriales y Electrónicos.
 Todos los que aportamos al equipo de AGRO+ contamos con muchos años de experiencia en los procesos agrícolas y producción lo que nos da la facilidad de emprender y desarrollar soluciones de forma rápida y eficiente.
 
-### Soluciones Comprobadas
+### 📉 Soluciones Comprobadas
 
 Todos nuestros clientes se apoyan de manera diaria en las diversas herramientas de AGRO+ mejorando su proceso bajo premisa de mejora continua.
 
-### ¿Por qué AGRO+?
+### 📲 ¿Por qué AGRO+?
 
 AGRO+ es una empresa de innovación tecnológica pero además de transformación digital que aporta valor a diferentes empresas del país, brindando soluciones innovadoras eficientes.
 
